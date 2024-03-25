@@ -1,6 +1,5 @@
 # 💫About Me :
 🌱 I’m currently learning ML
-You can Write this in Markdown format too
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/bpYaqGGjBn) 
